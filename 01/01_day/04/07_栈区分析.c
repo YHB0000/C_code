@@ -3,7 +3,7 @@
 #include <stdlib.h>
 char* test1()
 {
-	char str[] = "awdafs";
+	char str[] = "awdafs"; // Õ»Çø
 	return str;
 }
 
