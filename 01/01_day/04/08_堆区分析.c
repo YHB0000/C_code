@@ -23,7 +23,7 @@ int main( )
 		printf("p: %s\n", p);
 
 		free(p);
-		p = NULL;
+		p = NULL;			// 释放后，初始化
 
 		if (p != NULL)
 		{
